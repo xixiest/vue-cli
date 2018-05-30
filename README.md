@@ -58,10 +58,3 @@
 
 ## Changelog
 2.0.0 初次提交
-
-## 状态管理
-后台只有user和app配置相关状态使用vuex存在全局，其它数据都由每个业务页面自己管理。
-
-## License
-
-© 2017 allsense, Inc.
