@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1509776801730" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="19575" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64"><defs><style type="text/css">@font-face { font-family: Simsun; src: local("微软雅黑 Light"); }
+@font-face { font-family: NSimsun; src: local("微软雅黑 Light"); }
+@font-face { font-family: Simhei; src: local("微软雅黑 Light"); }
+@font-face { font-family: "Microsoft YaHei"; src: local("微软雅黑 Light"); }
+@font-face { font-family: 宋体; src: local("微软雅黑 Light"); }
+@font-face { font-family: 新宋体; src: local("微软雅黑 Light"); }
+@font-face { font-family: 黑体; src: local("微软雅黑 Light"); }
+@font-face { font-family: 微软雅黑; src: local("微软雅黑 Light"); }
+* { letter-spacing: 0.6px; }
+</style></defs><path d="M783.741603 900.20229h-543.483206a77.640458 77.640458 0 0 1-77.640458-77.640458v-155.280916h698.764122v155.280916a77.640458 77.640458 0 0 1-77.640458 77.640458z m-194.101145-155.280916h-310.561832v77.640458h310.561832v-77.640458z m155.280916 0h-77.640458v77.640458h77.640458v-77.640458z m-582.303435-543.483206a77.640458 77.640458 0 0 1 77.640458-77.640458h543.483206a77.640458 77.640458 0 0 1 77.640458 77.640458v388.20229h-698.764122v-388.20229z m140.412768 278.185761l62.888771-109.007203 109.861248 63.432254 12.111912-21.001744 48.020623 27.717644 55.823489-96.701191 155.785579 89.946471 36.529836-63.276973-155.785579-89.946471 4.697247-8.113428-67.236636-38.820229-72.632649 125.816362-138.976419-80.241413-2.406854 4.192585-18.905452-10.947305-97.050572 168.130412 67.275456 38.820229z" p-id="19576"></path></svg>

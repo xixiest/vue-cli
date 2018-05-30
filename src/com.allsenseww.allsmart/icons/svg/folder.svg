@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1509767950142" class="icon" style="" viewBox="0 0 1025 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2962" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.0625" height="64"><defs><style type="text/css">@font-face { font-family: Simsun; src: local("微软雅黑 Light"); }
+@font-face { font-family: NSimsun; src: local("微软雅黑 Light"); }
+@font-face { font-family: Simhei; src: local("微软雅黑 Light"); }
+@font-face { font-family: "Microsoft YaHei"; src: local("微软雅黑 Light"); }
+@font-face { font-family: 宋体; src: local("微软雅黑 Light"); }
+@font-face { font-family: 新宋体; src: local("微软雅黑 Light"); }
+@font-face { font-family: 黑体; src: local("微软雅黑 Light"); }
+@font-face { font-family: 微软雅黑; src: local("微软雅黑 Light"); }
+* { letter-spacing: 0.6px; }
+</style></defs><path d="M355.328 176 433.952 253.248 454.08 272 480.576 272 960.576 272 960.576 848 64.576 848 64.576 176 352.576 176M384.576 112 64.576 112C29.248 112 0.576 140.64 0.576 176L0.576 848C0.576 883.328 29.248 912 64.576 912L960.576 912C995.936 912 1024.576 883.328 1024.576 848L1024.576 272C1024.576 236.64 995.936 208 960.576 208L480.576 208 384.576 112 384.576 112Z" p-id="2963"></path></svg>
