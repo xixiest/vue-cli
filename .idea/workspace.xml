@@ -15,7 +15,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="DeviceList.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DeviceList.vue">
+        <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/DeviceList.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="882">
               <caret line="42" column="95" lean-forward="false" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
@@ -36,15 +36,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="768">
+                <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,7 +70,7 @@
         </entry>
       </file>
       <file leaf-file-name="DeviceForm.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DeviceForm.vue">
+        <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/DeviceForm.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2751">
               <caret line="131" column="21" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="21" />
@@ -73,7 +83,7 @@
         </entry>
       </file>
       <file leaf-file-name="device.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/api/device.js">
+        <entry file="file://$PROJECT_DIR$/src/com.xixiest/api/device.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3759">
               <caret line="180" column="62" lean-forward="false" selection-start-line="180" selection-start-column="62" selection-end-line="180" selection-end-column="62" />
@@ -83,7 +93,7 @@
         </entry>
       </file>
       <file leaf-file-name="base.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/api/base.js">
+        <entry file="file://$PROJECT_DIR$/src/com.xixiest/api/base.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
               <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
@@ -149,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com.allsenseww.allsmart/api/alarm.js" />
         <option value="$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DataPointForm.vue" />
         <option value="$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/timeData.vue" />
         <option value="$PROJECT_DIR$/src/com.allsenseww.allsmart/views/home/index.vue" />
@@ -200,6 +209,7 @@
         <option value="$PROJECT_DIR$/src/com.allsenseww.allsmart/api/base.js" />
         <option value="$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DeviceList.vue" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
       </list>
     </option>
   </component>
@@ -259,6 +269,17 @@
               <item name="vue-cli" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-cli" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vue-cli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vue-cli" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.xixiest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -526,7 +547,7 @@
       <workItem from="1527579103509" duration="1078000" />
       <workItem from="1527643939777" duration="48000" />
       <workItem from="1527664085209" duration="1406000" />
-      <workItem from="1527667006689" duration="22000" />
+      <workItem from="1527667006689" duration="261000" />
     </task>
     <task id="LOCAL-00003" summary="列表分页">
       <created>1512731482719</created>
@@ -875,7 +896,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="526226000" />
+    <option name="totallyTimeSpent" value="526465000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -997,7 +1018,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/com.allsenseww.allsmart/store/modules/user.js</url>
+          <url>file://$PROJECT_DIR$/src/com.xixiest/store/modules/user.js</url>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="15" />
@@ -1005,28 +1026,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/index.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/AppMain.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/AppMain.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/alarm/AlarmList.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/alarm/AlarmList.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3759">
           <caret line="180" column="13" lean-forward="false" selection-start-line="180" selection-start-column="13" selection-end-line="180" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/styles/variables.scss">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/styles/variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1040,13 +1061,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/dev-server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -1054,105 +1068,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/Layout.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/Layout.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="68" column="36" lean-forward="false" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/Navbar.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/Navbar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/Levelbar.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/Levelbar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/Sidebar.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/Sidebar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/layout/Logobar.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/layout/Logobar.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/permission.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/permission.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/icons/svg/b.svg">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/icons/svg/b.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/BaseConfForm.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/BaseConfForm.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="69" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/api/sconfig.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/api/sconfig.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/components/DriverConf/UDP_MODBUS.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/components/DriverConf/UDP_MODBUS.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/components/DriverConf/SERIAL_MODBUS.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/components/DriverConf/SERIAL_MODBUS.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/filters/datetime-format.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/filters/datetime-format.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
           <caret line="59" column="30" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/api/driver.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/api/driver.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/components/DriverConf/TCP_MODBUS.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/components/DriverConf/TCP_MODBUS.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DeviceDetail.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/DeviceDetail.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
@@ -1166,119 +1180,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/main.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/404.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/404.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/manualEntry/UsePage.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/manualEntry/UsePage.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/manualEntry/ConfigList.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/manualEntry/ConfigList.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="53" column="48" lean-forward="false" selection-start-line="53" selection-start-column="48" selection-end-line="53" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/components/DriverConf/index.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/components/DriverConf/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/manualEntry/ConfigForm.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/manualEntry/ConfigForm.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="96" column="19" lean-forward="false" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DataPointList.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/DataPointList.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/RealTimeData.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/RealTimeData.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/manualEntry/UseForm.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/manualEntry/UseForm.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4494">
           <caret line="214" column="18" lean-forward="false" selection-start-line="214" selection-start-column="8" selection-end-line="214" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/components/DriverConf/OPC.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/components/DriverConf/OPC.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="71" lean-forward="false" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/components/DriverConf/JDBC.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/components/DriverConf/JDBC.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/login/index.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/login/index.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/utils/auth.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/utils/auth.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/utils/validate.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/utils/validate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/utils/index.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/utils/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="25" column="76" lean-forward="false" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/AlarmConfForm.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/AlarmConfForm.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="36" column="21" lean-forward="false" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/App.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
@@ -1292,28 +1306,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/router/index.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="28" column="73" lean-forward="false" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/systemConf/index.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/systemConf/index.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="806">
           <caret line="89" column="19" lean-forward="false" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/utils/fetchGql.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/utils/fetchGql.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/api/device.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/api/device.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3759">
           <caret line="180" column="62" lean-forward="false" selection-start-line="180" selection-start-column="62" selection-end-line="180" selection-end-column="62" />
@@ -1321,7 +1335,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/api/base.js">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/api/base.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
@@ -1337,7 +1351,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DeviceForm.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/DeviceForm.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2751">
           <caret line="131" column="21" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="21" />
@@ -1348,7 +1362,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.allsenseww.allsmart/views/device/DeviceList.vue">
+    <entry file="file://$PROJECT_DIR$/src/com.xixiest/views/device/DeviceList.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="42" column="95" lean-forward="false" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
@@ -1369,11 +1383,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="768">
+            <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

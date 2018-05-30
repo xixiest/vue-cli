@@ -2,7 +2,7 @@ var path = require('path')
 var utils = require('./utils')
 var config = require('../config')
 var vueLoaderConfig = require('./vue-loader.conf')
-var package = 'com.allsenseww.allsmart'
+var package = 'com.xixiest'
 
 function resolve(dir) {
   return path.join(__dirname, '..', dir)
