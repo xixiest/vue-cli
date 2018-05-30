@@ -1,5 +1,3 @@
-# AllSmart web-end #
-
 **项目目前使用Vue 2.4.2, element-ui@1.4.x版本，**
 
 
@@ -14,7 +12,6 @@
     # 本地开发 开启服务
     npm run dev
 ```
-浏览器访问 http://localhost:9528
 
 ## 发布
 ```bash
